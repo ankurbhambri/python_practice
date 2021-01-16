@@ -1,1 +1,1 @@
-# python_practice
+# Python basic concepts and examples
